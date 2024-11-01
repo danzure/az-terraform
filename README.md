@@ -1,2 +1,2 @@
 # az-terraform
-Terraform repo (Azure) 
+Terraform repo for Azure
